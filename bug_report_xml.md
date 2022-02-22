@@ -1,6 +1,6 @@
 ###### `<?xml version="1.0" encoding="UTF-8"?>` 
 
-###### **/<BugReport/>**
+###### /<BugReport/>
   
 ###### **/<Id/>1/</Id/>**
 ###### **/<Summary/>You can run multiple copies of the application at the same time/Summary>**
