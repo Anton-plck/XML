@@ -1,8 +1,8 @@
 ###### `<?xml version="1.0" encoding="UTF-8"?>` 
 
-###### **<BugReport>**
+###### **/<BugReport/>**
   
-###### **<Id>1</Id>**
+###### **/<Id/>1/</Id/>**
 ###### **<Summary>You can run multiple copies of the application at the same time/Summary>**
 ###### **<Description>**
 ###### **<Title>With the Calc application running, launch another copy of the application in any way possible</Title>**
